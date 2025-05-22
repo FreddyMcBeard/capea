@@ -58,17 +58,17 @@ layout: default
     <h2>Biografia</h2>
 
     <h3>Infanzia e contesto familiare</h3>
-    <p>Antonio nasce il 22 luglio 1992 NOTA da genitori già rodati, Betta e Vinicio, come quinto di una prolifica nidiata. La nascita avviene in un clima estivo afoso, fatto di zanzare e scarsa ispirazione da parte dei genitori (che qui hanno fatto un pessimo lavoro). Fin dalla tenera età si distingue per la propensione alla fuga, alla ribellione e a capigliature discutibili. In giovanissima età manifesta un’attitudine alla monelleria e a forme precoci di egocentrismo patologico.</p>
+    <p>Antonio nasce il 22 luglio 1992<small><i>(così almeno dicono)</i></small> da genitori già rodati, Betta e Vinicio, come quinto di una prolifica nidiata. La nascita avviene in un clima estivo afoso, fatto di zanzare e scarsa ispirazione da parte dei genitori (che qui hanno fatto un pessimo lavoro). Fin dalla tenera età si distingue per la propensione alla fuga, alla ribellione e a capigliature discutibili. In giovanissima età manifesta un’attitudine alla monelleria e a forme precoci di egocentrismo patologico.</p>
     <img src="immagini/infanzia.jpg" alt="Antonio da bambino">
 
     <h3>Formazione religiosa e Seminario di Gozzano</h3>
-    <p>A circa dieci anni, viene avviato alla carriera ecclesiastica e iscritto al Seminario di Gozzano. Qui si distingue per la precoce vocazione e l’ambizione smisurata, guadagnandosi il soprannome di *Monsignore* NOTA. Parallelamente sviluppa notevoli competenze nel leccaculismo istituzionale, descritte da fonti coeve come “straordinariamente pratico nella rimozione di residui fecali per sacrum osculum”.
+    <p>A circa dieci anni, viene avviato alla carriera ecclesiastica e iscritto al Seminario di Gozzano. Qui si distingue per la precoce vocazione e l’ambizione smisurata, guadagnandosi il soprannome di *Monsignore*<small><i>(Maciel, M. (2006). Mi vida es Cristo. Editorial ART)</i></small>. Parallelamente sviluppa notevoli competenze nel leccaculismo istituzionale, descritte da fonti coeve come “straordinariamente pratico nella rimozione di residui fecali per sacrum osculum”.
 
-Durante il periodo seminaristico nasce la sua travagliata relazione con Guillermo Meade, figura di rilievo nella sua formazione spirituale e fisica. Il cammino intrapreso nell'anima secondo i dettami della "spiritualità a due vie", segnerà profondamente il carattere del ragazzo, aprendolo a nuove esperienze trascendentali. Il rapporto, definito da più analisti come *intenso e plurisensoriale*, implica pratiche quotidiane di subordinazione volontaria, tra cui il nutrimento del master con albumi e Weetabix e la ricezione dallo stesso - secondo alcune testimonianze – di secrezioni a base proteica non meglio identificate NOTA.</p>
+Durante il periodo seminaristico nasce la sua travagliata relazione con Guillermo Meade, figura di rilievo nella sua formazione spirituale e fisica. Il cammino intrapreso nell'anima secondo i dettami della "spiritualità a due vie", segnerà profondamente il carattere del ragazzo, aprendolo a nuove esperienze trascendentali. Il rapporto, definito da più analisti come *intenso e plurisensoriale*, implica pratiche quotidiane di subordinazione volontaria, tra cui il nutrimento del master con albumi e Weetabix e la ricezione dallo stesso - secondo alcune testimonianze – di secrezioni a base proteica non meglio identificate.</p>
     <img src="immagini/seminario.jpg" alt="Seminario di Gozzano">
 
     <h3>Adolescenza e istruzione informale</h3>
-    <p>Antonio completa gli studi liceali presso il medesimo istituto, distinguendosi per una marcata inclinazione al turpiloquio e alla flatulenza. Tra i momenti significativi si segnala l’approccio traumatico allo studio del mandolino, culminato in un incidente cranico, e la passione per la matematica applicata al corpo umano, nello specifico alle sue funzioni evacuative.
+    <p>Antonio completa gli studi liceali presso il medesimo istituto, distinguendosi per una marcata inclinazione al turpiloquio e alla flatulenza. Tra i momenti significativi si segnala l’approccio traumatico allo studio del mandolino, culminato in un incidente cranico, e la passione per la matematica applicata al corpo umano, nello specifico alle sue funzioni evacuative<small><i>Anselmi A., Approssimazioni Newtoniane del Tempo di Evacuazione, 2010, Edizioni della Strada</i></small>.
 
 Di rilievo la dieta a base di risotto all’aceto, responsabile di una forma di diarrea cronica che influenzò il suo metabolismo e ne limitò lo sviluppo fisico. 
 
@@ -83,15 +83,15 @@ Di particolare significanza storica è l'episodio che sancisce il suo passaggio 
     <p>Trascorre un periodo a Salamanca, su cui esistono scarse fonti. Tuttavia, è certo che tale esperienza abbia avviato lo sviluppo di insonnia e numerosi traumi psicologici, dagli esisti ancora incerti e tuttora oggetto di studio.
 
 Le uniche testimonianze scritte sono:
-- una nota nelle cronache ufficiali, che riporta semplicemente: “Gran Bevitore.” Tenendo conto il poco alcol permesso dalle norme, gli storici dibattono ancora su quale fosse il liquido in questione NOTA.</p>
-- un documento medico redatto in seguito a test psicologico. Tale documento riporta una diagnosi di *Disturbo Post-Traumatico da Convitto (DPTC)* NOTA. Tra i sintomi segnalati figurano: bisogno cronico di attenzione, comportamento istrionico, incidenti autolesionisti, ed eccessivo coinvolgimento emotivo in contesti calcistici di terza categoria NOTA.</p>
+- una nota nelle cronache ufficiali, che riporta semplicemente: “Gran Bevitore.” Tenendo conto il poco alcol permesso dalle norme, gli storici dibattono ancora su quale fosse il liquido in questione<small><i>la storiografia è divisa tra chi sostiene si trattasse di fermenti lattici e chi di succo di cetriolo</i></small>.</p>
+- un documento medico redatto in seguito a test psicologico. Tale documento riporta una diagnosi di *Disturbo Post-Traumatico da Convitto (DPTC)*<small><i>lo ha letto Andreone da qualche parte</i></small>. Tra i sintomi segnalati figurano: bisogno cronico di attenzione, comportamento istrionico, incidenti autolesionisti, ed eccessivo coinvolgimento emotivo in contesti calcistici di terza categoria<small><i>soprattutto il PALO, n.d.r.</i></small>.</p>
     <img src="immagini/salamanca.jpg" alt="Soggiorno a Salamanca">
   </div>
 
   <div class="section">
     <h2>Carriera sportiva e attività extracurricolari</h2>
 
-    <h3>Calcio e torneo del palo NOTA</p></h3>
+    <h3>Calcio e torneo del palo</p></h3>
     <p>Anselmi ha militato in diverse squadre di calcetto e calcio a 7, con alterne fortune. È noto soprattutto per il suo impegno nei *Lemme Lemme*, formazione familiare creata per il celebre Torneo del Palo. Sebbene odiati da gran parte del pubblico e degli avversari, i Lemme Lemme si sono distinti per longevità, affiatamento e inaspettate vittorie.
 
 La sua carriera sportiva è segnata da numerosi infortuni, che tuttavia non lo hanno distolto dalla frequentazione assidua degli spogliatoi maschili e da una curiosa tendenza a commentare le dotazioni anatomiche altrui.</p>
@@ -108,7 +108,7 @@ La sua carriera sportiva è segnata da numerosi infortuni, che tuttavia non lo h
 
   <div class="section">
     <h2>Arresto e scomparsa</h2>
-    <p>Durante una gita con amici a Madrid, il 24 maggio 2025, per ragioni ancora da chiarire, Antonio è stato arrestato e condotto in carcere NOTA. Nonostante le testimonianze dei compagni, la polizia spagnola nega tale avvenimento, risultando a tutt'oggi ufficialmente scomparso. Le fiacche e poco insistenti lamentele dei compagni non sono state sufficienti a fare chiarezza sul caso NOTA.</p>
+    <p>Durante una gita con amici a Madrid, il 24 maggio 2025, per ragioni ancora da chiarire, Antonio è stato arrestato e condotto in carcere<small><i>secondo El País, l'arresto sarebbe avvenuto durante una rissa a base di karaoke e sangria</i></small>. Nonostante le testimonianze dei compagni, la polizia spagnola nega tale avvenimento, risultando a tutt'oggi ufficialmente scomparso. Le fiacche e poco insistenti lamentele dei compagni non sono state sufficienti a fare chiarezza sul caso<small><i>fiacche e poco insistenti lamentele dei compagni” → ottimo. Puoi aggiungere che “furono trascritte su carta igienica e inviate via corriere low-cost</i></small>.</p>
     <img src="immagini/arresto.jpg" alt="Arresto a Madrid">
   </div>
 
@@ -132,17 +132,10 @@ Viene commemorato ogni anno con la "Notte del Pristina", un rito collettivo che 
       <li>Il numero esatto di eiaculazioni del Meade ingerite da Anselmi è oggetto di dibattito accademico.</li>
       <li>Secondo alcune fonti, il colpo in testa ricevuto dal mandolino sarebbe stata in realtà un tentativo di autodifesa da parte del mandolino vittima di gesti poco pudichi indesiderati.</li>
       <li>Il risotto all’aceto è stato candidato come patrimonio immateriale della tragicommedia educativa piemontese.</li>
-      <li>Lo storico della Legione di Cristo, David Murray nel suo saggio "Uso e abuso" NOTA insiste nel suggerire che la sua altezza limitata sia stata indotta volontariamente per rendere più agevole lo svolgimento della sua funzione di inalatore di etere posteriore.</li>
+      <li>Lo storico della Legione di Cristo, David Murray nel suo saggio "Un racconto di uso e abuso" insiste nel suggerire che la sua altezza limitata sia stata indotta volontariamente per rendere più agevole lo svolgimento della sua funzione di inalatore di etere posteriore.</li>
     </ul>
     <img src="immagini/dibattiti.jpg" alt="Dibattiti storiografici">
   </div>
-
-  <div class="note">
-    <h2>NOTE</h2>
-    <p>NOTA: [Inserisci nota qui]</p>
-    <p>NOTA: [Inserisci nota qui]</p>
-    <p>NOTA: [Inserisci nota qui]</p>
-    <!-- Aggiungi altre note secondo necessità -->
   </div>
 
 </body>
