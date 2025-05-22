@@ -61,7 +61,7 @@ layout: default
     <h2>Biografia</h2>
 
   <h3>Infanzia e contesto familiare</h3>
-<div style="float: left; width: 300px; margin: 10px 20px 10px 0; font-size: 90%; text-align: center;">
+<div style="width: 300px; margin: 10px 20px 10px 0; font-size: 90%; text-align: center;">
 <img src="./images/parto.png" alt="Sala ove avvenne il lieto evento della nascita di Antonio" style="max-width: 100%; height: auto; display: block; margin-bottom: 4px;">
   <div><em>Foto d'epoca della sala ove avvenne il lieto evento della nascita di Antonio; oggi trasformato in luogo di penegrinaggio</em></div>
 </div>
@@ -71,7 +71,7 @@ layout: default
     <p>A circa dieci anni, viene avviato alla carriera ecclesiastica e iscritto al Seminario di Gozzano. Qui si distingue per la precoce vocazione e l’ambizione smisurata, guadagnandosi il soprannome di "Monsignore" <small><i>(Maciel, M. (2006). Mi vida es Cristo. Editorial ART)</i></small>. Parallelamente sviluppa notevoli competenze nel leccaculismo istituzionale, descritte da fonti coeve come “straordinariamente pratico nella rimozione di residui fecali per sacrum osculum”.
 
  <div style="float: left; width: 300px; margin: 10px 20px 10px 0; font-size: 90%; text-align: center;">
-<img src="./images/gozzano.png" alt="Il Monsignore" style="max-width: 100%; height: auto; display: block; margin-bottom: 4px;">
+<img src="./images/gozzano.png" alt="Il Monsignore"style="max-width: 100%; height: auto; display: block; margin-bottom: 4px;">
 <div><em>Il Monsignore durante uno dei suoi accorati appelli alla castità prematrimoniale (dai che manca poco!)</em></div>
 </div>
 
