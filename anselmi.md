@@ -71,8 +71,9 @@ layout: default
     <p>A circa dieci anni, viene avviato alla carriera ecclesiastica e iscritto al Seminario di Gozzano. Qui si distingue per la precoce vocazione e l’ambizione smisurata, guadagnandosi il soprannome di "Monsignore" <small><i>(Maciel, M. (2006). Mi vida es Cristo. Editorial ART)</i></small>. Parallelamente sviluppa notevoli competenze nel leccaculismo istituzionale, descritte da fonti coeve come “straordinariamente pratico nella rimozione di residui fecali per sacrum osculum”.
 
 <div style="width: 300px; margin: 10px 20px 10px 0; font-size: 90%; text-align: center;">
-<img src="./images/gozzano.png" alt="Il Monsignore"style="max-width: 100%; height: auto; display: block; margin-bottom: 4px;">
-<div><em>Il Monsignore durante uno dei suoi accorati appelli alla castità prematrimoniale; dai che manca poco!</em>
+<img src="./images/gozzano.png" alt="monsignore" style="max-width: 100%; height: auto; display: block; margin-bottom: 4px;">
+<div><em>Il Monsignore durante un fervido invito alla castità prematrimoniale; dai che manca poco</em></div>
+</div>
 </div>
 
 Durante il periodo seminaristico nasce la sua travagliata relazione con Guillermo Meade, figura di rilievo nella sua formazione spirituale e fisica. Il cammino intrapreso nell'anima secondo i dettami della <i>spiritualità a due vie</i>, segnerà profondamente il carattere del ragazzo, aprendolo a nuove esperienze trascendentali. Il rapporto, definito da più analisti come <i>"intenso e plurisensoriale"</i>, implica pratiche quotidiane di subordinazione volontaria, tra cui il nutrimento del master con albumi e Weetabix e la ricezione dallo stesso - secondo alcune testimonianze – di secrezioni a base proteica non meglio identificate.</p>
