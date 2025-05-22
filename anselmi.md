@@ -61,8 +61,8 @@ layout: default
     <h2>Biografia</h2>
 
   <h3>Infanzia e contesto familiare</h3>
-<div style="float: left; width: 300px; margin: 10px 20px 10px 0; border: 1px solid #ccc; background: #f9f9f9; padding: 4px; font-size: 90%; text-align: center;">
-  <img src="./images/parto.png" alt="Sala ove avvenne il lieto evento della nascita di Antonio" style="max-width: 100%; height: auto; display: block; margin-bottom: 4px;">
+<div style="float: left; width: 300px; margin: 10px 20px 10px 0; font-size: 90%; text-align: center;">
+<img src="./images/parto.png" alt="Sala ove avvenne il lieto evento della nascita di Antonio" style="max-width: 100%; height: auto; display: block; margin-bottom: 4px;">
   <div><em>Foto d'epoca della sala ove avvenne il lieto evento della nascita di Antonio; oggi trasformato in luogo di penegrinaggio</em></div>
 </div>
   <p>Antonio nasce il 22 luglio 1992 <small><i>(così almeno dicono)</i></small> da genitori già rodati, Betta e Vinicio, come quinto di una prolifica nidiata. La nascita avviene in un clima estivo afoso, fatto di zanzare e scarsa ispirazione da parte dei genitori (che qui hanno fatto un pessimo lavoro). Fin dalla tenera età si distingue per la propensione alla fuga, alla ribellione e a capigliature discutibili. In giovanissima età manifesta un’attitudine alla monelleria e a forme precoci di egocentrismo patologico.</p>
@@ -70,7 +70,7 @@ layout: default
    <h3>Formazione religiosa e Seminario di Gozzano</h3>
     <p>A circa dieci anni, viene avviato alla carriera ecclesiastica e iscritto al Seminario di Gozzano. Qui si distingue per la precoce vocazione e l’ambizione smisurata, guadagnandosi il soprannome di "Monsignore" <small><i>(Maciel, M. (2006). Mi vida es Cristo. Editorial ART)</i></small>. Parallelamente sviluppa notevoli competenze nel leccaculismo istituzionale, descritte da fonti coeve come “straordinariamente pratico nella rimozione di residui fecali per sacrum osculum”.
 
- <div style="float: left; width: 300px; margin: 10px 20px 10px 0; border: 1px solid #ccc; background: #f9f9f9; padding: 4px; font-size: 90%; text-align: center;">
+ <div style="float: left; width: 300px; margin: 10px 20px 10px 0; font-size: 90%; text-align: center;">
 <img src="./images/gozzano.png" alt="Il Monsignore" style="max-width: 100%; height: auto; display: block; margin-bottom: 4px;">
 <div><em>Il Monsignore durante uno dei suoi accorati appelli alla castità prematrimoniale (dai che manca poco!)</em></div>
 </div>
@@ -82,7 +82,7 @@ Durante il periodo seminaristico nasce la sua travagliata relazione con Guillerm
 
 Di rilievo la dieta a base di risotto all’aceto, responsabile di una forma di diarrea cronica che influenzò il suo metabolismo e ne limitò lo sviluppo fisico. 
 
-<div style="float: left; width: 250px; margin: 10px 20px 10px 0; border: 1px solid #ccc; background: #f9f9f9; padding: 4px; font-size: 90%; text-align: center;">
+<div style="float: right; width: 200px; margin: 10px 20px 10px 0; border: 1px solid #ccc; background: #f9f9f9; padding: 4px; font-size: 90%; text-align: center;">
   <img src="./images/adolescenza.jpg" alt="Antonio durante una delle sue Epifanie Estatiche" style="max-width: 100%; height: auto; display: block; margin-bottom: 4px;">
   <div><em>Antonio durante una delle sue Epifanie Estatiche ottenute solitamente in seguito a lunghe sessioni di sfregamento del Palo Santo</em></div>
 </div>
@@ -116,7 +116,7 @@ La sua carriera sportiva è segnata da numerosi infortuni, che tuttavia non lo h
     <h2>Studi Universitari</h2>
     <p>Dopo il ritorno a Padova, Anselmi si iscrive a Scienze Politiche. Inizialmente si professa single convinto, ma finisce rapidamente per legarsi sentimentalmente e intraprendere un lungo periodo di “reclusione affettiva”. In questo periodo mantiene le attività calcistiche e accademiche, anche se con tempi di completamento dell’università più vicini alla Quaresima che alla sessione estiva.
 
-<div style="float: left; width: 300px; margin: 10px 20px 10px 0; border: 1px solid #ccc; background: #f9f9f9; padding: 4px; font-size: 90%; text-align: center;">
+ <div style="float: left; width: 300px; margin: 10px 20px 10px 0; font-size: 90%; text-align: center;">
   <img src="./images/ghepardo.jpg" alt="Il ghepardo" style="max-width: 100%; height: auto; display: block; margin-bottom: 4px;">
   <div><em>Il Ghepardo al suo picco seduttivo</em></div>
 </div>
@@ -130,7 +130,7 @@ La sua carriera sportiva è segnata da numerosi infortuni, che tuttavia non lo h
 
   <h2>Arresto e scomparsa</h2>
 
-  <div style="float: left; width: 300px; margin: 10px 20px 10px 0; border: 1px solid #ccc; background: #f9f9f9; padding: 4px; font-size: 90%; text-align: center;">
+   <div style="float: left; width: 300px; margin: 10px 20px 10px 0; font-size: 90%; text-align: center;">
   <img src="./images/arresto.png" alt="Ultima foto esistente di Antonio durante l'arresto" style="max-width: 100%; height: auto; display: block; margin-bottom: 4px;">
   <div><em>Ultima foto esistente di Antonio durante l'arresto, da questo momento in poi le sue tracce si perdono nei marasmi della burocrazia giudiziaria</em></div>
 </div>
