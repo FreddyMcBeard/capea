@@ -46,10 +46,11 @@ layout: default
 
   <h1><strong>Antonio Maria Anselmi</strong></h1>
 
+
   <p><strong>Antonio Anselmi</strong> (detto Tony, Capea, Thomas Turbato; nato a Padova il 22 luglio 1992 - scomparso a Madrid il 24 maggio 2025) è un celebre caso mediatico in seguito alla sua scomparsa avvenuta a Madrid il 24 maggio 2025.</p>
   <div style="float: left; width: 300px; margin: 10px 20px 10px 0; border: 1px solid #ccc; background: #f9f9f9; padding: 4px; font-size: 90%; text-align: center;">
   <img src="./images/logo.jpg" alt="Poliziotto arresta una merda" style="max-width: 100%; height: auto; display: block; margin-bottom: 4px;">
-  <div><em>Sigillo d'approvazione</em></div>
+  <div><em>Sigillo d'approvazione</em></div> 
 </div>
 
   <p>Individuo di origine incerta tra il clero e il sottobosco calcistico padovano, noto per una carriera eclettica che spazia dal seminario al torneo del palo, passando per studi universitari prolungati e una quantità non trascurabile di episodi gastrointestinali documentati.</p>
@@ -60,8 +61,11 @@ layout: default
     <h2>Biografia</h2>
 
   <h3>Infanzia e contesto familiare</h3>
-    <p>Antonio nasce il 22 luglio 1992 <small><i>(così almeno dicono)</i></small> da genitori già rodati, Betta e Vinicio, come quinto di una prolifica nidiata. La nascita avviene in un clima estivo afoso, fatto di zanzare e scarsa ispirazione da parte dei genitori (che qui hanno fatto un pessimo lavoro). Fin dalla tenera età si distingue per la propensione alla fuga, alla ribellione e a capigliature discutibili. In giovanissima età manifesta un’attitudine alla monelleria e a forme precoci di egocentrismo patologico.</p>
-    <img src="./images/parto.png" alt="Sala ove fù partorito Antonio Anselmi" width="300">
+<div style="float: left; width: 300px; margin: 10px 20px 10px 0; border: 1px solid #ccc; background: #f9f9f9; padding: 4px; font-size: 90%; text-align: center;">
+  <img src="./images/parto.png" alt="Poliziotto arresta una merda" style="max-width: 100%; height: auto; display: block; margin-bottom: 4px;">
+  <div><em>Sala ove avvenne il lieto evento della nascita di Antonio</em></div>
+</div>
+  <p>Antonio nasce il 22 luglio 1992 <small><i>(così almeno dicono)</i></small> da genitori già rodati, Betta e Vinicio, come quinto di una prolifica nidiata. La nascita avviene in un clima estivo afoso, fatto di zanzare e scarsa ispirazione da parte dei genitori (che qui hanno fatto un pessimo lavoro). Fin dalla tenera età si distingue per la propensione alla fuga, alla ribellione e a capigliature discutibili. In giovanissima età manifesta un’attitudine alla monelleria e a forme precoci di egocentrismo patologico.</p>
 
    <h3>Formazione religiosa e Seminario di Gozzano</h3>
     <p>A circa dieci anni, viene avviato alla carriera ecclesiastica e iscritto al Seminario di Gozzano. Qui si distingue per la precoce vocazione e l’ambizione smisurata, guadagnandosi il soprannome di "Monsignore" <small><i>(Maciel, M. (2006). Mi vida es Cristo. Editorial ART)</i></small>. Parallelamente sviluppa notevoli competenze nel leccaculismo istituzionale, descritte da fonti coeve come “straordinariamente pratico nella rimozione di residui fecali per sacrum osculum”.
