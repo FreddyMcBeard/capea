@@ -47,7 +47,10 @@ layout: default
   <h1><strong>Antonio Maria Anselmi</strong></h1>
 
   <p><strong>Antonio Anselmi</strong> (detto Tony, Capea, Thomas Turbato; nato a Padova il 22 luglio 1992 - scomparso a Madrid il 24 maggio 2025) è un celebre caso mediatico in seguito alla sua scomparsa avvenuta a Madrid il 24 maggio 2025.</p>
-  <img src="./images/logo.jpg" alt="Sigillo d'approvazione" width="300">
+  <div style="float: left; width: 300px; margin: 10px 20px 10px 0; border: 1px solid #ccc; background: #f9f9f9; padding: 4px; font-size: 90%; text-align: center;">
+  <img src="./images/logo.jpg" alt="Poliziotto arresta una merda" style="max-width: 100%; height: auto; display: block; margin-bottom: 4px;">
+  <div><em>Sigillo d'approvazione</em></div>
+</div>
 
   <p>Individuo di origine incerta tra il clero e il sottobosco calcistico padovano, noto per una carriera eclettica che spazia dal seminario al torneo del palo, passando per studi universitari prolungati e una quantità non trascurabile di episodi gastrointestinali documentati.</p>
 
