@@ -45,7 +45,7 @@ layout: default
 <body>
 
   <h1><strong>Antonio Maria Anselmi</strong></h1>
-  <div style="float: left; width: 250px; margin: 10px 20px 10px 0; border: 1px solid #ccc; background: #f9f9f9; padding: 4px; font-size: 90%; text-align: center;">
+  <div style="float: right; width: 200px; margin: 10px 20px 10px 0; border: 1px solid #ccc; background: #f9f9f9; padding: 4px; font-size: 90%; text-align: center;">
   <img src="./images/logo.jpg" alt="Sigillo d'approvazione" style="max-width: 100%; height: auto; display: block; margin-bottom: 4px;">
   <div><em>Sigillo d'approvazione</em></div> 
 </div>
@@ -82,7 +82,7 @@ Durante il periodo seminaristico nasce la sua travagliata relazione con Guillerm
 
 Di rilievo la dieta a base di risotto all’aceto, responsabile di una forma di diarrea cronica che influenzò il suo metabolismo e ne limitò lo sviluppo fisico. 
 
-<div style="float: left; width: 300px; margin: 10px 20px 10px 0; border: 1px solid #ccc; background: #f9f9f9; padding: 4px; font-size: 90%; text-align: center;">
+<div style="float: left; width: 250px; margin: 10px 20px 10px 0; border: 1px solid #ccc; background: #f9f9f9; padding: 4px; font-size: 90%; text-align: center;">
   <img src="./images/adolescenza.jpg" alt="Antonio durante una delle sue Epifanie Estatiche" style="max-width: 100%; height: auto; display: block; margin-bottom: 4px;">
   <div><em>Antonio durante una delle sue Epifanie Estatiche ottenute solitamente in seguito a lunghe sessioni di sfregamento del Palo Santo</em></div>
 </div>
@@ -105,7 +105,7 @@ Le uniche testimonianze scritte sono:
     <h3>Carriera sportiva</h3>
     <p>Anselmi ha militato in diverse squadre di calcetto e calcio a 7, con alterne fortune. È noto soprattutto per il suo impegno nei *Lemme Lemme*, formazione familiare creata per il celebre Torneo del Palo. Sebbene odiati da gran parte del pubblico e degli avversari, i Lemme Lemme si sono distinti per longevità, affiatamento e inaspettate vittorie.
 
-<div style="float: left; width: 300px; margin: 10px 20px 10px 0; border: 1px solid #ccc; background: #f9f9f9; padding: 4px; font-size: 90%; text-align: center;">
+<div style="float: right; width: 300px; margin: 10px 20px 10px 0; border: 1px solid #ccc; background: #f9f9f9; padding: 4px; font-size: 90%; text-align: center;">
   <img src="./images/palo.jpg" alt="Finalista del torneo di palo 2015" style="max-width: 100%; height: auto; display: block; margin-bottom: 4px;">
   <div><em>Finalista del torneo di palo 2015, forse l'hanno più "duro" della sua carriera</em></div>
 </div>
