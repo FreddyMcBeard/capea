@@ -63,7 +63,7 @@ layout: default
   <h3>Infanzia e contesto familiare</h3>
 <div style="width: 300px; margin: 10px 20px 10px 0; font-size: 90%; text-align: center;">
 <img src="./images/parto.png" alt="Sala ove avvenne il lieto evento della nascita di Antonio" style="max-width: 100%; height: auto; display: block; margin-bottom: 4px;">
-  <div><em>Foto d'epoca della sala ove avvenne il lieto evento della nascita di Antonio; oggi trasformato in luogo di penegrinaggio</em></div>
+<div><em>Foto d'epoca della sala ove avvenne il lieto evento della nascita di Antonio; oggi trasformato in luogo di penegrinaggio</em></div>
 </div>
   <p>Antonio nasce il 22 luglio 1992 <small><i>(così almeno dicono)</i></small> da genitori già rodati, Betta e Vinicio, come quinto di una prolifica nidiata. La nascita avviene in un clima estivo afoso, fatto di zanzare e scarsa ispirazione da parte dei genitori (che qui hanno fatto un pessimo lavoro). Fin dalla tenera età si distingue per la propensione alla fuga, alla ribellione e a capigliature discutibili. In giovanissima età manifesta un’attitudine alla monelleria e a forme precoci di egocentrismo patologico.</p>
 
@@ -72,7 +72,7 @@ layout: default
 
 <div style="width: 300px; margin: 10px 20px 10px 0; font-size: 90%; text-align: center;">
 <img src="./images/gozzano.png" alt="Il Monsignore"style="max-width: 100%; height: auto; display: block; margin-bottom: 4px;">
-<div><em>Il Monsignore durante uno dei suoi accorati appelli alla castità prematrimoniale (dai che manca poco!)</em></div>
+<div><em>Il Monsignore durante uno dei suoi accorati appelli alla castità prematrimoniale; dai che manca poco!</em>
 </div>
 
 Durante il periodo seminaristico nasce la sua travagliata relazione con Guillermo Meade, figura di rilievo nella sua formazione spirituale e fisica. Il cammino intrapreso nell'anima secondo i dettami della <i>spiritualità a due vie</i>, segnerà profondamente il carattere del ragazzo, aprendolo a nuove esperienze trascendentali. Il rapporto, definito da più analisti come <i>"intenso e plurisensoriale"</i>, implica pratiche quotidiane di subordinazione volontaria, tra cui il nutrimento del master con albumi e Weetabix e la ricezione dallo stesso - secondo alcune testimonianze – di secrezioni a base proteica non meglio identificate.</p>
