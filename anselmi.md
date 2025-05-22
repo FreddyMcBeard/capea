@@ -136,6 +136,3 @@ Viene commemorato ogni anno con la "Notte del Pristina", un rito collettivo che 
       <li>Lo storico della Legione di Cristo, David Murray nel suo saggio "Un racconto di uso e abuso" insiste nel suggerire che la sua altezza limitata sia stata indotta volontariamente per rendere più agevole lo svolgimento della sua funzione di inalatore di etere posteriore.</li>
     </ul>
   </div>
-
-</body>
-</html>
